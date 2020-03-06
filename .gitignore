@@ -10,7 +10,7 @@ pcb/gerber_bottom/
 pcb/plaid.xml
 *.kicad_pcb-bak
 pcb/plaid.csv
-pcb/gerver_plaid.zip
+pcb/gerber_plaid.zip
 pcb/gerber_plaid_bottom.zip
 pcb/svg/
 pcb/past_gerber/
@@ -26,3 +26,4 @@ pcb/plate.dwg
 *.net
 pcb/plaid_plate.pro
 pcb/plaid_plate.kicad_pcb
+.DS_store
